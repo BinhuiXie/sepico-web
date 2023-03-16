@@ -21,7 +21,7 @@ on:
 #   group: "pages"
 #   cancel-in-progress: false
 
-# jobs:
+jobs:
 #   # Build job
 #   build:
 #     runs-on: ubuntu-latest
